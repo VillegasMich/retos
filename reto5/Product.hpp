@@ -3,7 +3,6 @@
 #include <ctime>
 
 class Product {
-public:
   int id;
   std::string name;
   float price;
